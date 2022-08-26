@@ -1,2 +1,3 @@
 # CEN4802
-Homework
+Repository for CEN 4802
+Tran Nguyen
